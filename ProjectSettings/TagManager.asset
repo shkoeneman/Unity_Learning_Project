@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Collide
+    uniqueID: 15673671
+    locked: 0
+  - name: Player
+    uniqueID: 1014714893
+    locked: 0
